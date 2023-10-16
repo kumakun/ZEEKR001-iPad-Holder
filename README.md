@@ -3,6 +3,7 @@ iPad/iPhone Holder for ZEEK001，STL file
 ![image](https://github.com/kumakun/ZEEKR001-iPad-Holder/blob/main/preview.png)
 
 ‼️重要，必看‼️
+
 📌 使用此文件即表示您同意：在使用此设计和产品的过程中，对人身或财产造成的任何损害，与文件设计者无关
 
 📌 未经作者同意，勿将此设计和文件作为商用
